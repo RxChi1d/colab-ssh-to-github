@@ -18,7 +18,7 @@
 !sh /content/colab-ssh-to-github/key-generator.sh "email" "username" "path/to/save/key"
 ```
 - After running, it will show you the key, please copy it, and set the Github. (tutorial: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)  
-![Image text]('https://github.com/RxChi1d/colab-ssh-to-github/blob/ea1dc56328ff2bd65d6cb0eeb8826a81e5b885e6/picture/key.png')  
+![Image text]('https://github.com/RxChi1d/colab-ssh-to-github/blob/master/picture/key.png')  
 
 ## Copy the Key
 If you have the key, you just need to copy the key before running your own code.  
@@ -28,4 +28,4 @@ If you have the key, you just need to copy the key before running your own code.
 
 ## Clone the Private Repository
 You only can clone the Private Repository through "SSH", so please copy the ssh link. (ssh instead of https)
-![Image test]()
+![Image test]('https://github.com/RxChi1d/colab-ssh-to-github/blob/master/picture/ssh.png')
